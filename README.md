@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+<br />
+<p><img src="https://github-readme-stats.vercel.app/api?username=surya-zxc&show_icons=true&theme=nightowl&locale=en" alt="aldiskatel" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya-zxc" alt="surya-zxc" /></a></p>
+
 <!--
 **surya-zxc/surya-zxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
